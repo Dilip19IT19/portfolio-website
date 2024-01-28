@@ -186,7 +186,7 @@ function Projects() {
         />
         <div className="p-4">
           <h1 className="inline-flex  items-center text-xl text-[#8ebbff] font-semibold">
-           QR code generator &nbsp; 
+           Global Currency Converter &nbsp; 
           </h1>
          
           <div className="mt-4">
